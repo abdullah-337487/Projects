@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\bin\Debug\net8.0\LMS.exe
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\bin\Debug\net8.0\LMS.deps.json
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\bin\Debug\net8.0\LMS.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\bin\Debug\net8.0\LMS.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\bin\Debug\net8.0\LMS.pdb
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\LMS.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\LMS.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\LMS.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\refint\LMS.dll
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\LMS.pdb
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\LMS.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Bootcamp\Projects\LMS\LMS\obj\Debug\net8.0\ref\LMS.dll
